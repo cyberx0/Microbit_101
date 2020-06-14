@@ -1,3 +1,11 @@
+# microbit_101
+
+
+## Test 1
+
+DENEME
+
+```blocks
 basic.forever(function () {
     basic.showLeds(`
         . . . . .
@@ -7,3 +15,11 @@ basic.forever(function () {
         . . . . .
         `)
 })
+```
+## Test 2
+
+DENEME
+
+```blocks
+basic.showString("Hello!")
+```

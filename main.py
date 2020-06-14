@@ -1,9 +1,9 @@
-basic.forever(function () {
-    basic.showLeds(`
+def on_forever():
+    basic.show_leds("""
         . . . . .
         . . . . .
         . . # . .
         . . . . .
         . . . . .
-        `)
-})
+        """)
+basic.forever(on_forever)
