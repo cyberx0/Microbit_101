@@ -3,7 +3,7 @@
 
 ## Test 1
 
-DENEME
+Mucit Genç
 
 ```blocks
 basic.forever(function () {
@@ -18,7 +18,7 @@ basic.forever(function () {
 ```
 ## Test 2
 
-DENEME
+Mucit Genç
 
 ```blocks
 basic.showString("Hello!")
